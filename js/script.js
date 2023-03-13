@@ -6,7 +6,7 @@ createApp({
       titleText: "Primo esercizio utilizzando VUE",
       titleClass: "",
       input: "",
-      img: "img.JPG",
+      img: "img/img.JPG",
     }
   },
   methods: {
